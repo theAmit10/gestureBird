@@ -7,6 +7,8 @@ name = "pypi"
 pygame = "*"
 opencv-python = "*"
 mediapipe = "*"
+pyautogui = "*"
+pillow = "*"
 
 [dev-packages]
 
